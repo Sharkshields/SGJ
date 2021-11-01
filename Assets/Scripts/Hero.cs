@@ -2,6 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using DragonBones;
+using System;
 
 public class Hero : Entity
 {
@@ -9,6 +10,8 @@ public class Hero : Entity
 
     private Rigidbody2D rb;
     private UnityArmatureComponent player;
+    private bool Move = false;
+    private const string NORMAL_ANIMATION_GROUP = "normal";
 
     private void Awake()
     {
@@ -25,16 +28,45 @@ public class Hero : Entity
 
         transform.position = Vector3.MoveTowards(transform.position, transform.position + dir, speed * Time.deltaTime);
 
-        player.animation.Play(("walk"));
+        //player.animation.Play("walk");
+        if (Move)
+            {
+            return;
+        }
+    
+
+        player.animation.FadeIn("walk", 0.01f, -1, 0, NORMAL_ANIMATION_GROUP).resetToPose = false;
+      
 
 
     }
     private void Update()
     {
+
+        if
+            (Input.GetButton("Horizontal"))
+
+        {
+            Run(); 
+            Move = true;
+        }
+        else
+        {
+            Idle();
+            Move = false;
+        }
        
-        if (Input.GetButton("Horizontal"))
-                Run();
-       
+    }
+
+    private void Idle()
+    {
+        if (!Move)
+        {
+            return;
+        }
+
+
+        player.animation.FadeIn("stand", 0.01f, -1, 0, NORMAL_ANIMATION_GROUP).resetToPose = false;
     }
 
     private void OnTriggerEnter2D(Collider2D collision)
