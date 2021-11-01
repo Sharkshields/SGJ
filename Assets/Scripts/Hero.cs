@@ -1,19 +1,22 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using DragonBones;
 
 public class Hero : Entity
 {
     [SerializeField] private float speed = 10f;
 
     private Rigidbody2D rb;
-    private SpriteRenderer sprite;
+    private UnityArmatureComponent player;
 
     private void Awake()
     {
         rb = GetComponent<Rigidbody2D>();
-        sprite = GetComponentInChildren<SpriteRenderer>();
+        player = GetComponentInChildren<UnityArmatureComponent>();
     }
+
+  
 
     private void Run()
     {
@@ -22,13 +25,22 @@ public class Hero : Entity
 
         transform.position = Vector3.MoveTowards(transform.position, transform.position + dir, speed * Time.deltaTime);
 
-        sprite.flipX = dir.x < 0.0f;
+        player.animation.Play(("walk"));
+
+
     }
     private void Update()
     {
        
-            if (Input.GetButton("Horizontal"))
+        if (Input.GetButton("Horizontal"))
                 Run();
-  
+       
     }
+
+    private void OnTriggerEnter2D(Collider2D collision)
+    {
+        Debug.Log("Trigger");
+    }
+
+
 }
