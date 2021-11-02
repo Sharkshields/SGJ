@@ -35,7 +35,7 @@ public class Hero : Entity
         }
     
 
-        player.animation.FadeIn("walk", 0.01f, -1, 0, NORMAL_ANIMATION_GROUP).resetToPose = false;
+        player.animation.FadeIn("hero_walk", 0.01f, -1, 0, NORMAL_ANIMATION_GROUP).resetToPose = false;
       
 
 
@@ -66,7 +66,7 @@ public class Hero : Entity
         }
 
 
-        player.animation.FadeIn("stand", 0.01f, -1, 0, NORMAL_ANIMATION_GROUP).resetToPose = false;
+        player.animation.FadeIn("hero_idol", 0.01f, -1, 0, NORMAL_ANIMATION_GROUP).resetToPose = false;
     }
 
     private void OnTriggerEnter2D(Collider2D collision)
