@@ -143,9 +143,9 @@ namespace DragonBones
         internal float _zSpace = 0.0f;
 
         [SerializeField]
-        protected bool _flipX = false;
+        public bool _flipX = false;
         [SerializeField]
-        protected bool _flipY = false;
+        public bool _flipY = false;
 
         private bool _hasSortingGroup = false;
         /// <private/>
