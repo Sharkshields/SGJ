@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13014d4798cf510418d9b62e1a03ccfd, type: 3}
+  m_Name: GameSave
+  m_EditorClassIdentifier: 
+  roket: {fileID: 3092842644095253548, guid: e9266731f69a1bf46bcf52c52606c9b2, type: 3}
+  sprite: {fileID: -4081078327213034829, guid: 01dd5c7af85b6e142ac2edb2d1d7973b, type: 3}
+  score: 2
+  recordScore: 2
