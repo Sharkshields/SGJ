@@ -49,7 +49,7 @@ public class Hero : Entity
             return;
         }
     
-        player.animation.FadeIn("hero_walk", 0.01f, -1, 0, NORMAL_ANIMATION_GROUP).resetToPose = false;
+        player.animation.FadeIn("walk", 0.01f, -1, 0, NORMAL_ANIMATION_GROUP).resetToPose = false;
 
         if (_isLeafZone)
         {
@@ -82,7 +82,7 @@ public class Hero : Entity
         }
 
 
-        player.animation.FadeIn("hero_idol", 0.01f, -1, 0, NORMAL_ANIMATION_GROUP).resetToPose = false;
+        player.animation.FadeIn("idle", 0.01f, -1, 0, NORMAL_ANIMATION_GROUP).resetToPose = false;
         DestroyParticleFootPrint();
     }
 
