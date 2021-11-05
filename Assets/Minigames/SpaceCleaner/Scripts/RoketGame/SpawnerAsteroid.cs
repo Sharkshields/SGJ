@@ -13,8 +13,8 @@ public class SpawnerAsteroid : MonoBehaviour
 
     private void Awake()
     {
-        x_Min = Camera.main.ViewportToWorldPoint(new Vector3(0, 0, 0)).x;
-        x_Max = Camera.main.ViewportToWorldPoint(new Vector3(1, 0, 0)).x;
+        x_Min = -3;
+        x_Max = 3;
         startPoint = Camera.main.ViewportToWorldPoint(new Vector3(0, 1, 0)).y;
         //Random.InitState(1);
 

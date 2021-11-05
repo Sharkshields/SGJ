@@ -4,43 +4,42 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
 
-
 public class InteractionWithObject : MonoBehaviour
 {
+    [SerializeField] private Text text;
+    private Hero player;
 
-    private Text text;
-    private GameObject player;
-
-    public event Action<GameObject> OnInteract;
-
-    InputField input;
-
-    private void Awake()
-    {
-
-    }
+    public event Action<Hero> OnInteract;
 
     private void OnTriggerEnter2D(Collider2D collision)
     {
-        text.text = "";
-        player = collision.GetComponent<GameObject>();
+        text.gameObject.SetActive(true);
+        player = collision.GetComponent<Hero>();
 
     }
 
     private void OnTriggerExit2D(Collider2D collision)
     {
-        text.text = "";
+        text.gameObject.SetActive(false);
         player = null;
     }
 
     void Interaction()
     {
-        if (player == null)
-            OnInteract(player);
+        if (player == null) { }
+        OnInteract(player);
     }
 
     private void ListenerOnInteract()
     {
 
+    }
+
+    private void Update()
+    {
+        if (Input.GetButtonDown("Use"))
+        {
+            Interaction();
+        }
     }
 }

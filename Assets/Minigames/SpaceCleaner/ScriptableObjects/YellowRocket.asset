@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: YellowRocket
   m_EditorClassIdentifier: 
   name: yellow_rocket
-  onSold: 1
+  onSold: 0
   roket: {fileID: 2999893120459453728, guid: 463b5d7d28948ca4a920adff8ee52d39, type: 3}
   price: 15
   image: {fileID: 7649385742185852979, guid: 5760228db4e85f4419df5fd721093ab2, type: 3}

@@ -19,11 +19,17 @@ public class MainMenu : MonoBehaviour
 
     public void onClickStart()
     {
-        SceneManager.LoadScene(1);
+        SceneManager.LoadScene("SpaceCleanerGame");
     }
+
     public void onClickExit()
     {
-        SceneManager.LoadScene(0);
+        SceneManager.LoadScene("SpaceCleanerMainMenu");
+    }
+
+    public void GoToHome()
+    {
+        //SceneManager.
     }
    
 
