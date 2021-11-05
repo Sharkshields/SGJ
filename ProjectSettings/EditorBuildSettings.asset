@@ -6,6 +6,15 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
+    path: Assets/Minigames/SpaceCleaner/Scenes/SpaceCleanerGame.unity
+    guid: 681b2388bf3945a49bc26bd771615ca6
+  - enabled: 1
+    path: Assets/Minigames/SpaceCleaner/Scenes/SpaceCleanerMainMenu.unity
+    guid: a73e9da6beb475541b5b4640f9537f39
+  - enabled: 1
     path: Assets/Scenes/Level_1.unity
-    guid: 2cda990e2423bbf4892e6590ba056729
+    guid: b89e04cc528f8b8468a3637dfa7cd2d6
+  - enabled: 1
+    path: Assets/Scenes/Level_2.unity
+    guid: a48c1ff1ff8f79649bb3633846ac771a
   m_configObjects: {}

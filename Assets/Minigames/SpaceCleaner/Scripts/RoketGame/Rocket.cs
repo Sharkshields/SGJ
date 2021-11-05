@@ -18,8 +18,8 @@ public class Rocket : MonoBehaviour
     {
         Time.timeScale = 1;
         rigidbody = GetComponent<Rigidbody2D>();
-        x_Min = Camera.main.ViewportToWorldPoint(new Vector3(0, 0, 0)).x;
-        x_Max = Camera.main.ViewportToWorldPoint(new Vector3(1, 0, 0)).x;
+        x_Min = -3;
+        x_Max = 3;
     }
 
     void FixedUpdate()
