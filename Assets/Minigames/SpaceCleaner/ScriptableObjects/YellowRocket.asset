@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 0
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 90e3b437c66d94c438c84fd77b7e22cd, type: 3}
+  m_Name: YellowRocket
+  m_EditorClassIdentifier: 
+  name: yellow_rocket
+  onSold: 1
+  roket: {fileID: 2999893120459453728, guid: 463b5d7d28948ca4a920adff8ee52d39, type: 3}
+  price: 15
+  image: {fileID: 7649385742185852979, guid: 5760228db4e85f4419df5fd721093ab2, type: 3}
