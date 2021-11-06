@@ -24,7 +24,10 @@ public class Hero : Entity
         player = GetComponentInChildren<UnityArmatureComponent>();
     }
 
-  
+    private void Start()
+    {
+        player.animation.FadeIn("idle", 0.01f, -1, 0, NORMAL_ANIMATION_GROUP).resetToPose = false;
+    }
 
     private void Run()
     {
