@@ -717,9 +717,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b5ce925c6582eae4eba17bf75bc46c44, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  tabStartButtom: {fileID: 8300000, guid: 4b347c167d55e944f8637397c0703776, type: 3}
-  tabMainMenuButtom: {fileID: 8300000, guid: 9289402c65e76b048a9610d28e263054, type: 3}
-  tabShopButtom: {fileID: 8300000, guid: 5feec34d02e08e24f83e43fafffb70d8, type: 3}
+  tabStartButtom: {fileID: 8300000, guid: f75121baca3cabf4b94cc1a01232c727, type: 3}
+  tabMainMenuButtom: {fileID: 8300000, guid: f75121baca3cabf4b94cc1a01232c727, type: 3}
+  tabShopButtom: {fileID: 8300000, guid: f75121baca3cabf4b94cc1a01232c727, type: 3}
 --- !u!1 &596758468
 GameObject:
   m_ObjectHideFlags: 0

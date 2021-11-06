@@ -23,13 +23,13 @@ public class GameAudioSource : MonoBehaviour
     {
         _player = player;
         _player.OnGrabGarbage += OnGrabGarbage;
-        //_player.OnDie += OnDeth;
+        _player.OnDie += OnDeth;
     }
     private void OnDisable()
     {
         _player.OnGrabGarbage -= OnGrabGarbage;
-        spawnRocket.OnGetRocket -= SetPlayer; 
-        //_player.OnDie -= OnDeth;
+        spawnRocket.OnGetRocket -= SetPlayer;
+        _player.OnDie -= OnDeth;
     }
 
 
@@ -48,7 +48,7 @@ public class GameAudioSource : MonoBehaviour
         _audio.PlayOneShot(grabGarbage);
     }
 
-    private void OnDeth(int score)
+    private void OnDeth()
     {
         _audio.PlayOneShot(death);
     }
