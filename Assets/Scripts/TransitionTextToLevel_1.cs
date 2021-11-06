@@ -5,7 +5,8 @@ using UnityEngine.SceneManagement;
 
 public class TransitionTextToLevel_1 : MonoBehaviour
 {
-      
+    [SerializeField] private int sceneIndex;
+
     public void Start()
     {
         
@@ -16,7 +17,7 @@ public class TransitionTextToLevel_1 : MonoBehaviour
     IEnumerator CoroutineNextLevel()
     {
         yield return new WaitForSeconds(14.1f);
-        AsyncOperation loading = SceneManager.LoadSceneAsync(0); // 0 - индекс сцены из BuildSettings, которая должна запускаться
+        AsyncOperation loading = SceneManager.LoadSceneAsync(sceneIndex); // 0 - индекс сцены из BuildSettings, которая должна запускаться
 
         while (!loading.isDone)
         {

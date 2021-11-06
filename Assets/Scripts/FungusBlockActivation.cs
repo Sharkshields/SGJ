@@ -7,6 +7,7 @@ public class FungusBlockActivation : MonoBehaviour
 {
     public Fungus.Flowchart myFlowchart;
     [SerializeField] private string targetBlock;
+    [SerializeField] private bool deleteTrigger;
 
 
     private void OnTriggerEnter2D(Collider2D collision)
@@ -15,6 +16,8 @@ public class FungusBlockActivation : MonoBehaviour
         {
             Debug.Log("Triggered");
             myFlowchart.ExecuteBlock(targetBlock);
+            if (deleteTrigger)
+            Destroy(this);
         }
     }
 
