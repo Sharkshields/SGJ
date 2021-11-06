@@ -14,6 +14,6 @@ public class Car : MonoBehaviour
     {
         _yPose = gameObject.transform.position.y;
         gameObject.transform.DOMove( _pointFinish.position, _timeAAnimations).From(_pointStart.position).SetLoops(-1, LoopType.Restart);
-        gameObject.transform.DOMoveY(_yPose + 1, 0.5f).From(_yPose - 1).SetLoops(-1, LoopType.Yoyo);
+        gameObject.transform.DOMoveY(_yPose + 0.1f, 1f).From(_yPose - 0.1f).SetLoops(-1, LoopType.Yoyo);
     }
 }

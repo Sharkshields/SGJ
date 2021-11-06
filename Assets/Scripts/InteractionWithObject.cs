@@ -6,10 +6,17 @@ using UnityEngine.UI;
 
 public class InteractionWithObject : MonoBehaviour
 {
-    [SerializeField] private Text text;
+    [SerializeField] private GameObject text;
     private Hero player;
 
     public event Action<Hero> OnInteract;
+
+    private void Awake()
+    {
+        text = FindObjectOfType<TextForUsed>().gameObject;
+        text.gameObject.SetActive(false);
+
+    }
 
     private void OnTriggerEnter2D(Collider2D collision)
     {

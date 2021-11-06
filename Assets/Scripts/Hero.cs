@@ -15,6 +15,7 @@ public class Hero : Entity
     private bool Move = false;
     private const string NORMAL_ANIMATION_GROUP = "normal";
 
+    private InputForPlayer _input;
 
     private bool _isLeafZone;
 
@@ -22,14 +23,25 @@ public class Hero : Entity
     {
         rb = GetComponent<Rigidbody2D>();
         player = GetComponentInChildren<UnityArmatureComponent>();
+        AddInput();
     }
 
-  
 
-    private void Run()
+    private void AddInput()
+    {
+        _input = new GameObject("InputHero").AddComponent<InputForPlayer>();
+    }
+  
+    public void DestroyInput()
+    {
+        Destroy(_input.gameObject);
+        _input = null;
+    }
+
+    private void Run(float axis)
     {
        
-        Vector3 dir = transform.right * Input.GetAxis("Horizontal");
+        Vector3 dir = transform.right * axis;
 
         transform.position = Vector3.MoveTowards(transform.position, transform.position + dir, speed * Time.deltaTime);
         if (!_isLeafZone)
@@ -56,21 +68,24 @@ public class Hero : Entity
             PlayParticle();
         }
     }
-    private void Update()
-    {
 
-        if(Input.GetButton("Horizontal"))
+    private void LateUpdate()
+    {
+        if (_input!=null)
         {
-            
-            Run();
-            Move = true;
+            if (_input.AxisHorizontal!=0)
+            {
+
+                Run(_input.AxisHorizontal);
+                Move = true;
+            }
+            else
+            {
+                Idle();
+                Move = false;
+            }
         }
-        else
-        {
-            Idle();
-            Move = false;
-        }
-       
+
     }
 
     private void Idle()

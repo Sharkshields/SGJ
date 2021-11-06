@@ -14,7 +14,7 @@ PlayerSettings:
   accelerometerFrequency: 60
   companyName: DefaultCompany
   productName: SGJ
-  defaultCursor: {fileID: 2800000, guid: 93634062a918e6d4db9836c93fd9c74b, type: 3}
+  defaultCursor: {fileID: 2800000, guid: 74b5d43104c582b4fa27aed8b7db34a5, type: 3}
   cursorHotspot: {x: 0, y: 0}
   m_SplashScreenBackgroundColor: {r: 0.13725491, g: 0.12156863, b: 0.1254902, a: 1}
   m_ShowUnitySplashScreen: 1
