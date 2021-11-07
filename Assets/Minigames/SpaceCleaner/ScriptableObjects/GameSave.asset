@@ -13,5 +13,5 @@ MonoBehaviour:
   m_Name: GameSave
   m_EditorClassIdentifier: 
   _rocket: {fileID: 11400000, guid: 28df563c08bb67545b5f7659acd53ab1, type: 2}
-  score: 10
-  recordScore: 8
+  score: 7
+  recordScore: 3
