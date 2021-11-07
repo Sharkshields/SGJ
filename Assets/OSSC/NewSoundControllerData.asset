@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3d124957088fb4253ac0d826b09325bf, type: 3}
+  m_Name: NewSoundControllerData
+  m_EditorClassIdentifier: 
+  items:
+  - name: BGM
+    soundItems:
+    - name: Main Menu
+      tagID: -1
+      mixer: {fileID: 24300002, guid: 7a3c83bb68170174fae4a98fb0a0f21a, type: 2}
+      clips:
+      - {fileID: 8300000, guid: c394dba7673d7c84caf8541b0079b9c2, type: 3}
+      isRandomPitch: 0
+      pitchRange:
+        min: 1
+        max: 1
+      isRandomVolume: 0
+      volumeRange:
+        min: 1
+        max: 1
+      volume: 1
+    - name: Scene 1
+      tagID: -1
+      mixer: {fileID: 24300002, guid: b1b9ca76959998d4da1e6217714f55a4, type: 2}
+      clips:
+      - {fileID: 8300000, guid: 6dcf02423ca311d46a72d04f6cd59f3c, type: 3}
+      isRandomPitch: 0
+      pitchRange:
+        min: 1
+        max: 1
+      isRandomVolume: 0
+      volumeRange:
+        min: 1
+        max: 1
+      volume: 1
+    audioObjectPrefab: {fileID: 1372326452742372, guid: d91a4843d0a82bb4c98640f14561ef59, type: 3}
+    usingDefaultPrefab: 0
+    categoryVolume: 1
+    foldOutSoundItems: 1
+    soundsSearchName: 
+    isMute: 0
+  foldOutCategories: 1
+  foldOutTags: 0
+  assetName: 
+  soundTags:
+    _tagsData: []
