@@ -30,14 +30,14 @@ public class Save : ScriptableObject
     [ContextMenu("Save")]
     public void SaveState()
     {
-        var json = JsonUtility.ToJson(this);
-        File.WriteAllText(GetFilePath(),json);
-        Debug.Log(GetFilePath());
+        //var json = JsonUtility.ToJson(this);
+        //File.WriteAllText(GetFilePath(),json);
+       //Debug.Log(GetFilePath());
     } 
     public void LoadState()
     {
-        var json = File.ReadAllText(GetFilePath());
-        JsonUtility.FromJsonOverwrite(json, this);
+        //var json = File.ReadAllText(GetFilePath());
+        //JsonUtility.FromJsonOverwrite(json, this);
     }
     private string GetFilePath()
     {
