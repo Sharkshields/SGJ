@@ -25,6 +25,7 @@ public class RoketUI : MonoBehaviour, IPointerDownHandler
     {
         info = _info;
         image.sprite = info.Image;
+        image.preserveAspect = true;
         if (!info.OnSold)
         {
             buttonUse.gameObject.SetActive(true);

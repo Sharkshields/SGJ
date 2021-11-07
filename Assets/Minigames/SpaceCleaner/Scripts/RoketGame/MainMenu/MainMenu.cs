@@ -24,7 +24,7 @@ public class MainMenu : MonoBehaviour
 
     public void onClickExit()
     {
-        SceneManager.LoadScene("SpaceCleanerMainMenu");
+        SceneManager.LoadScene("Level_2");
     }
 
     public void GoToHome()

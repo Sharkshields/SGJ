@@ -1,0 +1,2532 @@
+fileFormatVersion: 2
+guid: 7e1d429092de5854f99f7ece18d76fdc
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3785678895003735993
+    second: objects_town2_0
+  - first:
+      213: -4004517767996628847
+    second: objects_town2_1
+  - first:
+      213: 476114585815358537
+    second: objects_town2_2
+  - first:
+      213: 2831733851152060283
+    second: objects_town2_3
+  - first:
+      213: 8778390101350386840
+    second: objects_town2_4
+  - first:
+      213: -7040076051009343870
+    second: objects_town2_5
+  - first:
+      213: 3172355615214010737
+    second: objects_town2_6
+  - first:
+      213: 6354619094173527667
+    second: objects_town2_7
+  - first:
+      213: -7554767039038745883
+    second: objects_town2_8
+  - first:
+      213: -4196600895049358209
+    second: objects_town2_9
+  - first:
+      213: 118963417776178172
+    second: objects_town2_10
+  - first:
+      213: 7482613339487829689
+    second: objects_town2_11
+  - first:
+      213: 5014037401511494345
+    second: objects_town2_12
+  - first:
+      213: 1586897586155752718
+    second: objects_town2_13
+  - first:
+      213: 8798993428492597147
+    second: objects_town2_14
+  - first:
+      213: 9018113050559687143
+    second: objects_town2_15
+  - first:
+      213: 2968249202750233759
+    second: objects_town2_16
+  - first:
+      213: -9192971399204366591
+    second: objects_town2_17
+  - first:
+      213: -8768612743630562880
+    second: objects_town2_18
+  - first:
+      213: -9135532522597845052
+    second: objects_town2_19
+  - first:
+      213: -4517317325762358820
+    second: objects_town2_20
+  - first:
+      213: -8773458428985630755
+    second: objects_town2_21
+  - first:
+      213: 3819469187953873366
+    second: objects_town2_22
+  - first:
+      213: 3911119248678993921
+    second: objects_town2_23
+  - first:
+      213: -8408538757578379851
+    second: objects_town2_24
+  - first:
+      213: -2205756099037381569
+    second: objects_town2_25
+  - first:
+      213: 7465929406105886534
+    second: objects_town2_26
+  - first:
+      213: 8867813900546663925
+    second: objects_town2_27
+  - first:
+      213: -3345790168719701017
+    second: objects_town2_28
+  - first:
+      213: -3216233574649050502
+    second: objects_town2_29
+  - first:
+      213: 4311828893969778237
+    second: objects_town2_30
+  - first:
+      213: 4940046606568124261
+    second: objects_town2_31
+  - first:
+      213: 3837015598019792570
+    second: objects_town2_32
+  - first:
+      213: -1138219162842936418
+    second: objects_town2_33
+  - first:
+      213: 7650363152156159640
+    second: objects_town2_34
+  - first:
+      213: -5432360299665422880
+    second: objects_town2_35
+  - first:
+      213: 792933271964606688
+    second: objects_town2_36
+  - first:
+      213: -7200287065163334489
+    second: objects_town2_37
+  - first:
+      213: 2914842070171085597
+    second: objects_town2_38
+  - first:
+      213: -7250931752520922302
+    second: objects_town2_39
+  - first:
+      213: -4103744779281391444
+    second: objects_town2_40
+  - first:
+      213: -3363085857879314713
+    second: objects_town2_41
+  - first:
+      213: -392903377118033535
+    second: objects_town2_42
+  - first:
+      213: -328307498723476908
+    second: objects_town2_43
+  - first:
+      213: 3813606990171985634
+    second: objects_town2_44
+  - first:
+      213: 1111087100277161122
+    second: objects_town2_45
+  - first:
+      213: 4560258354423395263
+    second: objects_town2_46
+  - first:
+      213: -4341730007463666871
+    second: objects_town2_47
+  - first:
+      213: 2785314855415944934
+    second: objects_town2_48
+  - first:
+      213: -6800576752169171610
+    second: objects_town2_49
+  - first:
+      213: 7068825210393778683
+    second: objects_town2_50
+  - first:
+      213: 895335417645759423
+    second: objects_town2_51
+  - first:
+      213: -5369826593522454406
+    second: objects_town2_52
+  - first:
+      213: -3950945012943054332
+    second: objects_town2_53
+  - first:
+      213: -1392397521528251946
+    second: objects_town2_54
+  - first:
+      213: -8613557208856117952
+    second: objects_town2_55
+  - first:
+      213: -615509881175193633
+    second: objects_town2_56
+  - first:
+      213: 5335345607616754984
+    second: objects_town2_57
+  - first:
+      213: -2398126593589785706
+    second: objects_town2_58
+  - first:
+      213: 2953206710050022244
+    second: objects_town2_59
+  - first:
+      213: 7267008507837877960
+    second: objects_town2_60
+  - first:
+      213: -3607092672685110301
+    second: objects_town2_61
+  - first:
+      213: -7331854576789810478
+    second: objects_town2_62
+  - first:
+      213: 3513591833800083962
+    second: objects_town2_63
+  - first:
+      213: 8972267810126512142
+    second: objects_town2_64
+  - first:
+      213: -5728809673372572854
+    second: objects_town2_65
+  - first:
+      213: -6899467098354116162
+    second: objects_town2_66
+  - first:
+      213: 7965845870616678252
+    second: objects_town2_67
+  - first:
+      213: 2325590331641911955
+    second: objects_town2_68
+  - first:
+      213: -2041482896037396274
+    second: objects_town2_69
+  - first:
+      213: 4688927134920097772
+    second: objects_town2_70
+  - first:
+      213: -234088945393012212
+    second: objects_town2_71
+  - first:
+      213: -8814220678983238414
+    second: objects_town2_72
+  - first:
+      213: -7240918185658200678
+    second: objects_town2_73
+  - first:
+      213: -8992751067610310344
+    second: objects_town2_74
+  - first:
+      213: -2589776199650800127
+    second: objects_town2_75
+  - first:
+      213: 7889134535891993052
+    second: objects_town2_76
+  - first:
+      213: 1967588679669794834
+    second: objects_town2_77
+  - first:
+      213: 2281606970009865250
+    second: objects_town2_78
+  - first:
+      213: 700562436630821598
+    second: objects_town2_79
+  - first:
+      213: 8910731223435475431
+    second: objects_town2_80
+  - first:
+      213: 1284231329145312716
+    second: objects_town2_81
+  - first:
+      213: -1508853746498363812
+    second: objects_town2_82
+  - first:
+      213: -6921548480780952367
+    second: objects_town2_83
+  - first:
+      213: -2540286754579706939
+    second: objects_town2_84
+  - first:
+      213: -3652366606263896064
+    second: objects_town2_85
+  - first:
+      213: 354336127484600642
+    second: objects_town2_86
+  - first:
+      213: 234171734766059579
+    second: objects_town2_87
+  - first:
+      213: -4704177694061037575
+    second: objects_town2_88
+  - first:
+      213: 642804556784729260
+    second: objects_town2_89
+  - first:
+      213: -2993830039320538827
+    second: objects_town2_90
+  - first:
+      213: -1240580617354030099
+    second: objects_town2_91
+  - first:
+      213: 2421327881600104488
+    second: objects_town2_92
+  - first:
+      213: -8874975718045935592
+    second: objects_town2_93
+  - first:
+      213: -3515676339703963509
+    second: objects_town2_94
+  - first:
+      213: -7648892638409147792
+    second: objects_town2_95
+  - first:
+      213: 3224380721958348375
+    second: objects_town2_96
+  - first:
+      213: 6707919283598559721
+    second: objects_town2_97
+  - first:
+      213: -8689632427250951236
+    second: objects_town2_98
+  - first:
+      213: -309642520124003411
+    second: objects_town2_99
+  - first:
+      213: -6777718239835082396
+    second: objects_town2_100
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: objects_town2_0
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 3639
+        width: 660
+        height: 686
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b7146ac5ee698430800000000000000
+      internalID: 3785678895003735993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objects_town2_1
+      rect:
+        serializedVersion: 2
+        x: 853
+        y: 3628
+        width: 660
+        height: 664
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19022dd8e481d68c0800000000000000
+      internalID: -4004517767996628847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objects_town2_2
+      rect:
+        serializedVersion: 2
+        x: 1628
+        y: 3614
+        width: 658
+        height: 687
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94c18e771bf7b9600800000000000000
+      internalID: 476114585815358537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objects_town2_3
+      rect:
+        serializedVersion: 2
+        x: 2487
+        y: 4087
+        width: 383
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7f0e583fe65c4720800000000000000
+      internalID: 2831733851152060283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objects_town2_4
+      rect:
+        serializedVersion: 2
+        x: 2988
+        y: 3576
+        width: 664
+        height: 755
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89c8bca894b13d970800000000000000
+      internalID: 8778390101350386840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objects_town2_5
+      rect:
+        serializedVersion: 2
+        x: 3909
+        y: 3519
+        width: 550
+        height: 812
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28e6adba120ac4e90800000000000000
+      internalID: -7040076051009343870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objects_town2_6
+      rect:
+        serializedVersion: 2
+        x: 4495
+        y: 4185
+        width: 102
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1710c0acf98760c20800000000000000
+      internalID: 3172355615214010737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objects_town2_7
+      rect:
+        serializedVersion: 2
+        x: 4570
+        y: 4124
+        width: 523
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37ea02fd564203850800000000000000
+      internalID: 6354619094173527667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objects_town2_8
+      rect:
+        serializedVersion: 2
+        x: 5195
+        y: 4031
+        width: 66
+        height: 263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e21445a763182790800000000000000
+      internalID: -7554767039038745883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objects_town2_9
+      rect:
+        serializedVersion: 2
+        x: 4821
+        y: 4083
+        width: 71
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f742f7278bda2c5c0800000000000000
+      internalID: -4196600895049358209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objects_town2_10
+      rect:
+        serializedVersion: 2
+        x: 2423
+        y: 3794
+        width: 350
+        height: 195
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf3c0d12994a6a100800000000000000
+      internalID: 118963417776178172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objects_town2_11
+      rect:
+        serializedVersion: 2
+        x: 4606
+        y: 3519
+        width: 303
+        height: 418
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9be75cb003597d760800000000000000
+      internalID: 7482613339487829689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objects_town2_12
+      rect:
+        serializedVersion: 2
+        x: 5041
+        y: 3518
+        width: 94
+        height: 331
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c28d9f7370759540800000000000000
+      internalID: 5014037401511494345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objects_town2_13
+      rect:
+        serializedVersion: 2
+        x: 5223
+        y: 3518
+        width: 93
+        height: 331
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0d0db562fac50610800000000000000
+      internalID: 1586897586155752718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objects_town2_14
+      rect:
+        serializedVersion: 2
+        x: 2506
+        y: 3584
+        width: 236
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b973c4677ed4c1a70800000000000000
+      internalID: 8798993428492597147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objects_town2_15
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 2829
+        width: 658
+        height: 686
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e9acea1a06c62d70800000000000000
+      internalID: 9018113050559687143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objects_town2_16
+      rect:
+        serializedVersion: 2
+        x: 908
+        y: 2830
+        width: 660
+        height: 666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9c93c66ce6513920800000000000000
+      internalID: 2968249202750233759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objects_town2_17
+      rect:
+        serializedVersion: 2
+        x: 1608
+        y: 2818
+        width: 696
+        height: 730
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 107191808310c6080800000000000000
+      internalID: -9192971399204366591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objects_town2_18
+      rect:
+        serializedVersion: 2
+        x: 2520
+        y: 3247
+        width: 383
+        height: 211
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c9dfe2fa21af4680800000000000000
+      internalID: -8768612743630562880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objects_town2_19
+      rect:
+        serializedVersion: 2
+        x: 3090
+        y: 2741
+        width: 664
+        height: 755
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c7f684a291183180800000000000000
+      internalID: -9135532522597845052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objects_town2_20
+      rect:
+        serializedVersion: 2
+        x: 3962
+        y: 3281
+        width: 324
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd1973473d34f41c0800000000000000
+      internalID: -4517317325762358820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objects_town2_21
+      rect:
+        serializedVersion: 2
+        x: 4380
+        y: 3251
+        width: 410
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddf97a8ea0a6e3680800000000000000
+      internalID: -8773458428985630755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objects_town2_22
+      rect:
+        serializedVersion: 2
+        x: 4901
+        y: 3132
+        width: 131
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d15a827dfa710530800000000000000
+      internalID: 3819469187953873366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objects_town2_23
+      rect:
+        serializedVersion: 2
+        x: 5069
+        y: 3129
+        width: 129
+        height: 211
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10044b31c36174630800000000000000
+      internalID: 3911119248678993921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objects_town2_24
+      rect:
+        serializedVersion: 2
+        x: 2720
+        y: 3246
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bdaf62ec8ede4b80800000000000000
+      internalID: -8408538757578379851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objects_town2_25
+      rect:
+        serializedVersion: 2
+        x: 5314
+        y: 3116
+        width: 137
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3cb9b7b3849361e0800000000000000
+      internalID: -2205756099037381569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objects_town2_26
+      rect:
+        serializedVersion: 2
+        x: 2456
+        y: 2952
+        width: 350
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64f95191d3f4c9760800000000000000
+      internalID: 7465929406105886534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objects_town2_27
+      rect:
+        serializedVersion: 2
+        x: 4030
+        y: 3052
+        width: 170
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f5ea5442cdc01b70800000000000000
+      internalID: 8867813900546663925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objects_town2_28
+      rect:
+        serializedVersion: 2
+        x: 4460
+        y: 3138
+        width: 225
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ebc77c719d5191d0800000000000000
+      internalID: -3345790168719701017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objects_town2_29
+      rect:
+        serializedVersion: 2
+        x: 4563
+        y: 3136
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7acb5caa94ad53d0800000000000000
+      internalID: -3216233574649050502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objects_town2_30
+      rect:
+        serializedVersion: 2
+        x: 3978
+        y: 2912
+        width: 275
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d368555b881b6db30800000000000000
+      internalID: 4311828893969778237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objects_town2_31
+      rect:
+        serializedVersion: 2
+        x: 4394
+        y: 2818
+        width: 167
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56fed5617329e8440800000000000000
+      internalID: 4940046606568124261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objects_town2_32
+      rect:
+        serializedVersion: 2
+        x: 4636
+        y: 2818
+        width: 168
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abe4a956b51df3530800000000000000
+      internalID: 3837015598019792570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objects_town2_33
+      rect:
+        serializedVersion: 2
+        x: 4903
+        y: 2807
+        width: 130
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9b4432b3bb3430f0800000000000000
+      internalID: -1138219162842936418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objects_town2_34
+      rect:
+        serializedVersion: 2
+        x: 5107
+        y: 2807
+        width: 141
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89e6107e0cc8b2a60800000000000000
+      internalID: 7650363152156159640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objects_town2_35
+      rect:
+        serializedVersion: 2
+        x: 5314
+        y: 2796
+        width: 137
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e5028ed6116c94b0800000000000000
+      internalID: -5432360299665422880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objects_town2_36
+      rect:
+        serializedVersion: 2
+        x: 2539
+        y: 2744
+        width: 235
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e0e9061c90110b00800000000000000
+      internalID: 792933271964606688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objects_town2_37
+      rect:
+        serializedVersion: 2
+        x: 3978
+        y: 2771
+        width: 275
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ac79102011731c90800000000000000
+      internalID: -7200287065163334489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objects_town2_38
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 1879
+        width: 658
+        height: 685
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1b69e85b69937820800000000000000
+      internalID: 2914842070171085597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objects_town2_39
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 1881
+        width: 659
+        height: 665
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24bc368fcf38f5b90800000000000000
+      internalID: -7250931752520922302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objects_town2_40
+      rect:
+        serializedVersion: 2
+        x: 1627
+        y: 1867
+        width: 696
+        height: 730
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca0a116add19c07c0800000000000000
+      internalID: -4103744779281391444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objects_town2_41
+      rect:
+        serializedVersion: 2
+        x: 2539
+        y: 2296
+        width: 382
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7eea6fb0b3be351d0800000000000000
+      internalID: -3363085857879314713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objects_town2_42
+      rect:
+        serializedVersion: 2
+        x: 3087
+        y: 1829
+        width: 664
+        height: 755
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18904dfc5702c8af0800000000000000
+      internalID: -392903377118033535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objects_town2_43
+      rect:
+        serializedVersion: 2
+        x: 4016
+        y: 2413
+        width: 298
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45a7d71c11e917bf0800000000000000
+      internalID: -328307498723476908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objects_town2_44
+      rect:
+        serializedVersion: 2
+        x: 4377
+        y: 2413
+        width: 297
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e6d52a2a57ace430800000000000000
+      internalID: 3813606990171985634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objects_town2_45
+      rect:
+        serializedVersion: 2
+        x: 4708
+        y: 2416
+        width: 115
+        height: 283
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2acf986b4df5b6f00800000000000000
+      internalID: 1111087100277161122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objects_town2_46
+      rect:
+        serializedVersion: 2
+        x: 4873
+        y: 2416
+        width: 116
+        height: 283
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb3f963efca494f30800000000000000
+      internalID: 4560258354423395263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objects_town2_47
+      rect:
+        serializedVersion: 2
+        x: 5049
+        y: 2416
+        width: 116
+        height: 283
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94b597acf831fb3c0800000000000000
+      internalID: -4341730007463666871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objects_town2_48
+      rect:
+        serializedVersion: 2
+        x: 5253
+        y: 2496
+        width: 141
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e69fa09a1d67a620800000000000000
+      internalID: 2785314855415944934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objects_town2_49
+      rect:
+        serializedVersion: 2
+        x: 2487
+        y: 2002
+        width: 339
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6654d23997f7f91a0800000000000000
+      internalID: -6800576752169171610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objects_town2_50
+      rect:
+        serializedVersion: 2
+        x: 4016
+        y: 2118
+        width: 366
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf9d8dc9313891260800000000000000
+      internalID: 7068825210393778683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objects_town2_51
+      rect:
+        serializedVersion: 2
+        x: 4498
+        y: 2121
+        width: 375
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbbf99391dedc6c00800000000000000
+      internalID: 895335417645759423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objects_town2_52
+      rect:
+        serializedVersion: 2
+        x: 4906
+        y: 2129
+        width: 372
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a70f5abe92b8a75b0800000000000000
+      internalID: -5369826593522454406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objects_town2_53
+      rect:
+        serializedVersion: 2
+        x: 2476
+        y: 2066
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40a9d68917c6b29c0800000000000000
+      internalID: -3950945012943054332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objects_town2_54
+      rect:
+        serializedVersion: 2
+        x: 2558
+        y: 1793
+        width: 235
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d99c27d4d53dace0800000000000000
+      internalID: -1392397521528251946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objects_town2_55
+      rect:
+        serializedVersion: 2
+        x: 4057
+        y: 1903
+        width: 108
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04d30a9ea5f767880800000000000000
+      internalID: -8613557208856117952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objects_town2_56
+      rect:
+        serializedVersion: 2
+        x: 4090
+        y: 1826
+        width: 455
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd74fc036054577f0800000000000000
+      internalID: -615509881175193633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objects_town2_57
+      rect:
+        serializedVersion: 2
+        x: 4641
+        y: 1903
+        width: 105
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 825ffefef84fa0a40800000000000000
+      internalID: 5335345607616754984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objects_town2_58
+      rect:
+        serializedVersion: 2
+        x: 4672
+        y: 1826
+        width: 454
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69bc9a6a19428bed0800000000000000
+      internalID: -2398126593589785706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objects_town2_59
+      rect:
+        serializedVersion: 2
+        x: 5315
+        y: 1413
+        width: 103
+        height: 520
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 463e4d42bd5ebf820800000000000000
+      internalID: 2953206710050022244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objects_town2_60
+      rect:
+        serializedVersion: 2
+        x: 4203
+        y: 1815
+        width: 83
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ce0b615cb999d460800000000000000
+      internalID: 7267008507837877960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objects_town2_61
+      rect:
+        serializedVersion: 2
+        x: 4787
+        y: 1815
+        width: 83
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3eb80bc435801fdc0800000000000000
+      internalID: -3607092672685110301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objects_town2_62
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 1002
+        width: 658
+        height: 686
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d21f95bb15004a90800000000000000
+      internalID: -7331854576789810478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objects_town2_63
+      rect:
+        serializedVersion: 2
+        x: 945
+        y: 1005
+        width: 660
+        height: 664
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af90e533829c2c030800000000000000
+      internalID: 3513591833800083962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objects_town2_64
+      rect:
+        serializedVersion: 2
+        x: 1646
+        y: 991
+        width: 697
+        height: 730
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0043444906e38c70800000000000000
+      internalID: 8972267810126512142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objects_town2_65
+      rect:
+        serializedVersion: 2
+        x: 3129
+        y: 914
+        width: 664
+        height: 755
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a436ec064fd2f70b0800000000000000
+      internalID: -5728809673372572854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objects_town2_66
+      rect:
+        serializedVersion: 2
+        x: 4077
+        y: 1644
+        width: 77
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb99b1f9a3b2040a0800000000000000
+      internalID: -6899467098354116162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objects_town2_67
+      rect:
+        serializedVersion: 2
+        x: 4132
+        y: 1592
+        width: 166
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6f8e9d4d9e5c8e60800000000000000
+      internalID: 7965845870616678252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objects_town2_68
+      rect:
+        serializedVersion: 2
+        x: 4606
+        y: 1589
+        width: 137
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39a599ac518264020800000000000000
+      internalID: 2325590331641911955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objects_town2_69
+      rect:
+        serializedVersion: 2
+        x: 4702
+        y: 1412
+        width: 366
+        height: 335
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec0c7ae4f123ba3e0800000000000000
+      internalID: -2041482896037396274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objects_town2_70
+      rect:
+        serializedVersion: 2
+        x: 2558
+        y: 1419
+        width: 381
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cef3a9ed26a621140800000000000000
+      internalID: 4688927134920097772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objects_town2_71
+      rect:
+        serializedVersion: 2
+        x: 4297
+        y: 1581
+        width: 66
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c02f00c285950ccf0800000000000000
+      internalID: -234088945393012212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objects_town2_72
+      rect:
+        serializedVersion: 2
+        x: 4077
+        y: 1448
+        width: 77
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fc3d410ef89da580800000000000000
+      internalID: -8814220678983238414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objects_town2_73
+      rect:
+        serializedVersion: 2
+        x: 4132
+        y: 1396
+        width: 166
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9d4d203647138b90800000000000000
+      internalID: -7240918185658200678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objects_town2_74
+      rect:
+        serializedVersion: 2
+        x: 4297
+        y: 1386
+        width: 66
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8399295bc84533380800000000000000
+      internalID: -8992751067610310344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objects_town2_75
+      rect:
+        serializedVersion: 2
+        x: 2495
+        y: 1189
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10e8d0484444f0cd0800000000000000
+      internalID: -2589776199650800127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objects_town2_76
+      rect:
+        serializedVersion: 2
+        x: 2506
+        y: 1125
+        width: 339
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd1cb1ddf06db7d60800000000000000
+      internalID: 7889134535891993052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objects_town2_77
+      rect:
+        serializedVersion: 2
+        x: 4060
+        y: 1126
+        width: 270
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2184ccbba774e4b10800000000000000
+      internalID: 1967588679669794834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objects_town2_78
+      rect:
+        serializedVersion: 2
+        x: 4415
+        y: 1127
+        width: 270
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22c4e746375e9af10800000000000000
+      internalID: 2281606970009865250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objects_town2_79
+      rect:
+        serializedVersion: 2
+        x: 4818
+        y: 1143
+        width: 328
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edabc5a03d5e8b900800000000000000
+      internalID: 700562436630821598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objects_town2_80
+      rect:
+        serializedVersion: 2
+        x: 2578
+        y: 916
+        width: 234
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e97add26d649ab70800000000000000
+      internalID: 8910731223435475431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objects_town2_81
+      rect:
+        serializedVersion: 2
+        x: 4046
+        y: 900
+        width: 270
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc55227f69182d110800000000000000
+      internalID: 1284231329145312716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objects_town2_82
+      rect:
+        serializedVersion: 2
+        x: 4429
+        y: 905
+        width: 270
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5e92f503897f0be0800000000000000
+      internalID: -1508853746498363812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objects_town2_83
+      rect:
+        serializedVersion: 2
+        x: 4840
+        y: 983
+        width: 292
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dc18632458b1ff90800000000000000
+      internalID: -6921548480780952367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objects_town2_84
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 161
+        width: 658
+        height: 686
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cb85add7a61fbcd0800000000000000
+      internalID: -2540286754579706939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objects_town2_85
+      rect:
+        serializedVersion: 2
+        x: 945
+        y: 161
+        width: 660
+        height: 667
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00834243cef205dc0800000000000000
+      internalID: -3652366606263896064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objects_town2_86
+      rect:
+        serializedVersion: 2
+        x: 1646
+        y: 150
+        width: 696
+        height: 725
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 241aec1a4dadae400800000000000000
+      internalID: 354336127484600642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objects_town2_87
+      rect:
+        serializedVersion: 2
+        x: 2558
+        y: 576
+        width: 381
+        height: 215
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b300b2bb3f1ff3300800000000000000
+      internalID: 234171734766059579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objects_town2_88
+      rect:
+        serializedVersion: 2
+        x: 3129
+        y: 73
+        width: 664
+        height: 755
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f7fc21af4767beb0800000000000000
+      internalID: -4704177694061037575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objects_town2_89
+      rect:
+        serializedVersion: 2
+        x: 4052
+        y: 690
+        width: 272
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cacf723b653bbe800800000000000000
+      internalID: 642804556784729260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objects_town2_90
+      rect:
+        serializedVersion: 2
+        x: 4435
+        y: 726
+        width: 272
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 531d764f077c376d0800000000000000
+      internalID: -2993830039320538827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objects_town2_91
+      rect:
+        serializedVersion: 2
+        x: 4854
+        y: 757
+        width: 341
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de3d06b508298cee0800000000000000
+      internalID: -1240580617354030099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objects_town2_92
+      rect:
+        serializedVersion: 2
+        x: 2339
+        y: 521
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 828f58b21e84a9120800000000000000
+      internalID: 2421327881600104488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objects_town2_93
+      rect:
+        serializedVersion: 2
+        x: 4093
+        y: 131
+        width: 218
+        height: 435
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81897a72b90c5d480800000000000000
+      internalID: -8874975718045935592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objects_town2_94
+      rect:
+        serializedVersion: 2
+        x: 4724
+        y: 467
+        width: 322
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8023b2fefec53fc0800000000000000
+      internalID: -3515676339703963509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objects_town2_95
+      rect:
+        serializedVersion: 2
+        x: 5223
+        y: 318
+        width: 88
+        height: 215
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07ab582cbaca9d590800000000000000
+      internalID: -7648892638409147792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objects_town2_96
+      rect:
+        serializedVersion: 2
+        x: 2506
+        y: 283
+        width: 339
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 756e1f0ee2d4fbc20800000000000000
+      internalID: 3224380721958348375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objects_town2_97
+      rect:
+        serializedVersion: 2
+        x: 4410
+        y: 385
+        width: 201
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e982e06c01571d50800000000000000
+      internalID: 6707919283598559721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objects_town2_98
+      rect:
+        serializedVersion: 2
+        x: 2495
+        y: 347
+        width: 9
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbbddf8d859386780800000000000000
+      internalID: -8689632427250951236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objects_town2_99
+      rect:
+        serializedVersion: 2
+        x: 4763
+        y: 282
+        width: 328
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dabe6acb4cde3bbf0800000000000000
+      internalID: -309642520124003411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objects_town2_100
+      rect:
+        serializedVersion: 2
+        x: 2578
+        y: 76
+        width: 234
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 461b1f6bb25b0f1a0800000000000000
+      internalID: -6777718239835082396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -681,6 +681,8 @@ GameObject:
   - component: {fileID: 266925369}
   - component: {fileID: 266925368}
   - component: {fileID: 266925367}
+  - component: {fileID: 266925366}
+  - component: {fileID: 266925371}
   m_Layer: 0
   m_Name: Flowchart
   m_TagString: Untagged
@@ -688,6 +690,35 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
+--- !u!114 &266925366
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 266925365}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 21
+  indentLevel: 0
+  storyText: "\u0427\u0442\u043E \u043C\u043E\u0436\u0435\u0442 \u0431\u044B\u0442\u044C
+    \u0445\u0443\u0436\u0435 \u0445\u043E\u043B\u043E\u0434\u043D\u043E\u0433\u043E
+    \u043A\u043E\u0444\u0435 \u0437\u0430 \u043F\u044F\u0442\u044C \u0434\u043E\u043B\u043B\u0430\u0440\u043E\u0432?\r\n"
+  description: 
+  character: {fileID: 1368751651}
+  portrait: {fileID: 0}
+  voiceOverClip: {fileID: 0}
+  showAlways: 1
+  showCount: 1
+  extendPrevious: 0
+  fadeWhenDone: 1
+  waitForClick: 1
+  stopVoiceover: 1
+  waitForVO: 0
+  setSayDialog: {fileID: 0}
 --- !u!114 &266925367
 MonoBehaviour:
   m_ObjectHideFlags: 2
@@ -721,8 +752,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 8
   indentLevel: 0
-  storyText: "\u041E\u043A\u0430\u0437\u044B\u0432\u0430\u0435\u0442\u0441\u044F, 
-    \u043C\u043E\u0436\u0435\u0442.\r\n"
+  storyText: "\u041E\u043A\u0430\u0437\u044B\u0432\u0430\u0435\u0442\u0441\u044F,
+    \u0447\u0442\u043E-\u0442\u043E \u043C\u043E\u0436\u0435\u0442 \u0431\u044B\u0442\u044C
+    \u0445\u0443\u0436\u0435...\r\n"
   description: 
   character: {fileID: 1368751651}
   portrait: {fileID: 0}
@@ -784,6 +816,36 @@ MonoBehaviour:
   parentBlock: {fileID: 266925376}
   suppressBlockAutoSelect: 0
   waitForFrames: 1
+--- !u!114 &266925371
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 266925365}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3ac5ce55bc698fa4290939ef6e426501, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 22
+  indentLevel: 0
+  display: 1
+  stage: {fileID: 0}
+  character: {fileID: 1368751651}
+  replacedCharacter: {fileID: 0}
+  portrait: {fileID: 21300000, guid: 4649c04d005a0504d994cfd3bb5d9bec, type: 3}
+  offset: 0
+  fromPosition: {fileID: 0}
+  toPosition: {fileID: 119348504}
+  facing: 2
+  useDefaultSettings: 1
+  fadeDuration: 0.5
+  moveDuration: 1
+  shiftOffset: {x: 0, y: 0}
+  move: 0
+  shiftIntoPlace: 0
+  waitUntilFinished: 0
 --- !u!114 &266925372
 MonoBehaviour:
   m_ObjectHideFlags: 2
@@ -801,10 +863,7 @@ MonoBehaviour:
   storyText: "\u041A\u0430\u043A \u043E\u043D \u043C\u043E\u0436\u0435\u0442 \u0431\u044B\u0442\u044C
     \u0445\u043E\u043B\u043E\u0434\u043D\u044B\u043C? \u041D\u0435\u0443\u0436\u0435\u043B\u0438
     \u044F \u0442\u0430\u043A \u0434\u043E\u043B\u0433\u043E \u0431\u043E\u043B\u0442\u0430\u043B\u0430
-    \u0441 \u043F\u0440\u043E\u0444\u0435\u0441\u0441\u043E\u0440\u043E\u043C? \u0427\u0442\u043E
-    \u043C\u043E\u0436\u0435\u0442 \u0431\u044B\u0442\u044C \u0445\u0443\u0436\u0435
-    \u0445\u043E\u043B\u043E\u0434\u043D\u043E\u0433\u043E \u043A\u043E\u0444\u0435
-    \u0437\u0430 \u043F\u044F\u0442\u044C \u0434\u043E\u043B\u043B\u0430\u0440\u043E\u0432?\r\n"
+    \u0441 \u043F\u0440\u043E\u0444\u0435\u0441\u0441\u043E\u0440\u043E\u043C?"
   description: 
   character: {fileID: 1368751651}
   portrait: {fileID: 0}
@@ -929,6 +988,8 @@ MonoBehaviour:
   - {fileID: 266925374}
   - {fileID: 266925375}
   - {fileID: 266925372}
+  - {fileID: 266925366}
+  - {fileID: 266925371}
   - {fileID: 266925369}
   - {fileID: 266925368}
   - {fileID: 266925367}
@@ -960,7 +1021,7 @@ MonoBehaviour:
   selectedBlocks:
   - {fileID: 266925376}
   selectedCommands:
-  - {fileID: 266925367}
+  - {fileID: 266925371}
   variables: []
   description: 
   stepPause: 0
@@ -2123,7 +2184,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 95c387d3e32404bcc91c60318d766bb1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  viewSize: 5.3376966
+  viewSize: 5
   primaryAspectRatio: {x: 4, y: 3}
   secondaryAspectRatio: {x: 2, y: 1}
 --- !u!4 &1045705244
@@ -3165,7 +3226,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 95c387d3e32404bcc91c60318d766bb1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  viewSize: 5.3376966
+  viewSize: 5
   primaryAspectRatio: {x: 4, y: 3}
   secondaryAspectRatio: {x: 2, y: 1}
 --- !u!4 &1590256873

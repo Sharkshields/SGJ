@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 13014d4798cf510418d9b62e1a03ccfd, type: 3}
   m_Name: GameSave
   m_EditorClassIdentifier: 
-  roket: {fileID: 2999893120459453728, guid: 463b5d7d28948ca4a920adff8ee52d39, type: 3}
-  sprite: {fileID: 7649385742185852979, guid: 5760228db4e85f4419df5fd721093ab2, type: 3}
-  score: 2
-  recordScore: 2
+  roket: {fileID: 3092842644095253548, guid: e3f7fbf89f2c4a9489619754a43fc769, type: 3}
+  sprite: {fileID: 890426472770691616, guid: db42da26f9da95842a20b46dcbaedc20, type: 3}
+  score: 7
+  recordScore: 3

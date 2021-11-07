@@ -7,10 +7,11 @@ public class MenuTransitions : MonoBehaviour
 {
     public void onClickExit()
     {
-        SceneManager.LoadScene(0);
+        Time.timeScale = 1;
+        SceneManager.LoadScene("SpaceCleanerMainMenu");
     }
     public void onClickRestart()
     {
-        SceneManager.LoadScene(1);
+        SceneManager.LoadScene("SpaceCleanerGame");
     }
 }

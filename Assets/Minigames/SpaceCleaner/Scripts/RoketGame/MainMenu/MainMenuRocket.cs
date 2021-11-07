@@ -17,5 +17,6 @@ public class MainMenuRocket : MonoBehaviour
     private void UpdateImage(Sprite sprite)
     {
         image.sprite = sprite;
+        image.preserveAspect = true;
     }
 }
