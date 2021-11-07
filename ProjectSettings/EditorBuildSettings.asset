@@ -59,7 +59,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/F5.unity
     guid: c885397214b13e74b83ba13f16747ef4
-  - enabled: 0
+  - enabled: 1
     path: Assets/Scenes/Day_3_Banner.unity
     guid: ba37e38eb481a874e82930ad453af722
   - enabled: 0
