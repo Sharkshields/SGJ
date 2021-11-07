@@ -641,8 +641,8 @@ MonoBehaviour:
     m_ColorMultiplier: 1
     m_FadeDuration: 0.1
   m_SpriteState:
-    m_HighlightedSprite: {fileID: 21300000, guid: 5033a6ac3cb130f4ca52c75f523d1a3d, type: 3}
-    m_PressedSprite: {fileID: 21300000, guid: 27f8386758e573941968181bb4efa748, type: 3}
+    m_HighlightedSprite: {fileID: 21300000, guid: 01bedcf18f7f85640b7820ab612863de, type: 3}
+    m_PressedSprite: {fileID: 21300000, guid: 03b904f235c885245b78bffad6adad25, type: 3}
     m_SelectedSprite: {fileID: 0}
     m_DisabledSprite: {fileID: 0}
   m_AnimationTriggers:
@@ -688,7 +688,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: 39ba4b3540cd61e4ab037e403c56f05f, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 3d17eca80fa9eae4bba77ffb8d54d7ae, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -715,6 +715,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 1886418688}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 1a5dbbe88bdcf5e43916d4e45a26ffd5, type: 3}
+  m_Script: {fileID: 11500000, guid: c3406dc4a90316b4b84f847234bbe3e9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  sceneName: MainMenu
