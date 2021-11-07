@@ -5,33 +5,27 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 0
+  - enabled: 1
     path: Assets/Scenes/MainMenu.unity
     guid: ac214f69bcd241f48ab255bd7ba20876
-  - enabled: 0
+  - enabled: 1
     path: Assets/Scenes/Settings.unity
     guid: ef10bd8e75869c742b023f94d1d5842b
-  - enabled: 0
+  - enabled: 1
     path: Assets/Scenes/Creators.unity
     guid: 2a1cbaff1e788d043998c329a34e782b
   - enabled: 1
     path: Assets/Scenes/BeginMurphyLaw.unity
     guid: 988e2dffe1177d44ea4c3247e1d281a8
   - enabled: 1
-    path: Assets/Scenes/Day_1_Banner.unity
-    guid: ed523c5e5ed1fa740ad11246ad904777
-  - enabled: 1
-    path: Assets/Scenes/Level_0.unity
-    guid: e3bce7a78f432b344b58c93a81662967
-  - enabled: 1
-    path: Assets/Scenes/Art_1.unity
-    guid: 892f64e5338940a47845513d65ed6776
-  - enabled: 1
-    path: Assets/Scenes/F1.unity
-    guid: 0fad07292b0cef94f963f3ff45196ad4
-  - enabled: 1
     path: Assets/Scenes/Level_1.unity
     guid: 5d4ed808a664df442960227b34f1bd8e
+  - enabled: 1
+    path: Assets/Scenes/Level_2.unity
+    guid: a48c1ff1ff8f79649bb3633846ac771a
+  - enabled: 1
+    path: Assets/Scenes/Day_1_Banner.unity
+    guid: ed523c5e5ed1fa740ad11246ad904777
   - enabled: 1
     path: Assets/Minigames/SpaceCleaner/Scenes/SpaceCleanerGame.unity
     guid: 681b2388bf3945a49bc26bd771615ca6
@@ -39,33 +33,21 @@ EditorBuildSettings:
     path: Assets/Minigames/SpaceCleaner/Scenes/SpaceCleanerMainMenu.unity
     guid: a73e9da6beb475541b5b4640f9537f39
   - enabled: 1
-    path: Assets/Scenes/Level_2.unity
-    guid: a48c1ff1ff8f79649bb3633846ac771a
-  - enabled: 1
-    path: Assets/Scenes/F2.unity
-    guid: 03ee59114160357499d6ecc15b45136c
+    path: Assets/Scenes/knb.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
   - enabled: 1
     path: Assets/Scenes/Day_2_Banner.unity
     guid: a6904a4393530ae44a30b849ce4e5c2b
   - enabled: 1
-    path: Assets/Scenes/Level_3.unity
-    guid: 2b40cc5a120fea24db9fd32626732ff3
-  - enabled: 1
-    path: Assets/Scenes/F3.unity
-    guid: 661a5b819d4b272418bea7f42c89d02e
-  - enabled: 1
-    path: Assets/Scenes/F4.unity
-    guid: 7c0727fb281a389418fe90b139409904
-  - enabled: 0
-    path: Assets/Scenes/knb.unity
-    guid: 2cda990e2423bbf4892e6590ba056729
-  - enabled: 0
-    path: Assets/Scenes/test.unity
-    guid: deaf62bbc088018449182d11dc8e87da
-  - enabled: 0
-    path: Assets/Scenes/Level_test.unity
-    guid: dd441a560ad5f074890da1d3d1a41a5b
-  - enabled: 0
     path: Assets/Scenes/Day_3_Banner.unity
     guid: ba37e38eb481a874e82930ad453af722
+  - enabled: 1
+    path: Assets/Scenes/test.unity
+    guid: deaf62bbc088018449182d11dc8e87da
+  - enabled: 1
+    path: Assets/Scenes/Level_test.unity
+    guid: dd441a560ad5f074890da1d3d1a41a5b
+  - enabled: 1
+    path: Assets/OSSC/Example/Scenes/Example.unity
+    guid: 89a5aeb948394461898a7aa6ac9d56d7
   m_configObjects: {}

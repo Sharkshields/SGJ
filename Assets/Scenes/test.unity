@@ -1740,7 +1740,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 61dddfdc5e0e44ca298d8f46f7f5a915, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  selectedFlowchart: {fileID: 1368737156}
+  selectedFlowchart: {fileID: 0}
 --- !u!4 &823907306
 Transform:
   m_ObjectHideFlags: 1
@@ -2169,6 +2169,9 @@ GameObject:
   - component: {fileID: 1368737173}
   - component: {fileID: 1368737172}
   - component: {fileID: 1368737170}
+  - component: {fileID: 1368737221}
+  - component: {fileID: 1368737220}
+  - component: {fileID: 1368737219}
   m_Layer: 0
   m_Name: Flowchart
   m_TagString: Untagged
@@ -2189,7 +2192,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   version: 1
-  scrollPos: {x: 20.619652, y: 121.2983}
+  scrollPos: {x: 82.81471, y: 79.834885}
   variablesScrollPos: {x: 0, y: 0}
   variablesExpanded: 1
   blockViewHeight: 348
@@ -2200,8 +2203,10 @@ MonoBehaviour:
     y: -340
     width: 1114
     height: 859
-  selectedBlocks: []
-  selectedCommands: []
+  selectedBlocks:
+  - {fileID: 1368737158}
+  selectedCommands:
+  - {fileID: 1368737220}
   variables:
   - {fileID: 1368737169}
   - {fileID: 1368737168}
@@ -2268,6 +2273,9 @@ MonoBehaviour:
   description: 
   eventHandler: {fileID: 1368737161}
   commandList:
+  - {fileID: 1368737221}
+  - {fileID: 1368737219}
+  - {fileID: 1368737220}
   - {fileID: 1368737160}
   - {fileID: 1368737159}
   - {fileID: 1368737157}
@@ -2509,7 +2517,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   scope: 2
-  key: D
+  key: James
   value: 0
 --- !u!114 &1368737168
 MonoBehaviour:
@@ -2539,7 +2547,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   scope: 2
-  key: itan
+  key: Itan
   value: 0
 --- !u!114 &1368737170
 MonoBehaviour:
@@ -5060,6 +5068,54 @@ MonoBehaviour:
   stopVoiceover: 1
   waitForVO: 0
   setSayDialog: {fileID: 0}
+--- !u!114 &1368737219
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1368737155}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 23c657364a3b24e16bdf5946729a8b7b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 483
+  indentLevel: 0
+  key: James
+  variable: {fileID: 1368737167}
+--- !u!114 &1368737220
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1368737155}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 23c657364a3b24e16bdf5946729a8b7b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 482
+  indentLevel: 0
+  key: Lizz
+  variable: {fileID: 1368737168}
+--- !u!114 &1368737221
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1368737155}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 23c657364a3b24e16bdf5946729a8b7b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 481
+  indentLevel: 0
+  key: Itan
+  variable: {fileID: 1368737169}
 --- !u!1001 &1522415425
 PrefabInstance:
   m_ObjectHideFlags: 0
