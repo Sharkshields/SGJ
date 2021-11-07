@@ -6,20 +6,20 @@ using UnityEngine;
 [CreateAssetMenu(menuName = "Save")]
 public class Save : ScriptableObject
 {
-    [SerializeField] private Rocket roket;
-    [SerializeField] private Sprite sprite;
+    //    [SerializeField] private Rocket roket;
+    //    [SerializeField] private Sprite sprite;
+    [SerializeField] private RocketInfoUI _rocket;
     [SerializeField]private int score;
     [SerializeField]private int recordScore;
-    public Rocket Roket { get => roket;}
+    public Rocket Roket { get => _rocket.Roket;}
     public int RecordScore { get => recordScore; set { recordScore = value; SaveState(); } }
     public int Score { get => score; set { score = value; SaveState(); } }
 
-    public Sprite Sprite { get => sprite;}
+    public Sprite Sprite { get => _rocket.Image;}
 
-    public void SetRoket(Rocket rocket, Sprite _sprite)
+    public void SetRoket(RocketInfoUI rocket)
     {
-        roket = rocket;
-        sprite = _sprite;
+        _rocket = rocket;
         SaveState();
     }
     private void OnEnable()

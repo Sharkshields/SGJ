@@ -14,6 +14,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: GreenRocket
   onSold: 1
-  roket: {fileID: 0}
+  roket: {fileID: 8849389928840200113, guid: b527e317a79d2a74bb1581bf9ce5e7f5, type: 3}
   price: 5
   image: {fileID: 4882149116565567084, guid: db42da26f9da95842a20b46dcbaedc20, type: 3}
