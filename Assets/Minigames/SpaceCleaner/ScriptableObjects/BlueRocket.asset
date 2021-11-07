@@ -7,12 +7,13 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 0}
-  m_Enabled: 1
+  m_Enabled: 0
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 13014d4798cf510418d9b62e1a03ccfd, type: 3}
-  m_Name: GameSave
+  m_Script: {fileID: 11500000, guid: 90e3b437c66d94c438c84fd77b7e22cd, type: 3}
+  m_Name: BlueRocket
   m_EditorClassIdentifier: 
+  name: BlueRocket
+  onSold: 1
   roket: {fileID: 3092842644095253548, guid: e9266731f69a1bf46bcf52c52606c9b2, type: 3}
-  sprite: {fileID: 890426472770691616, guid: db42da26f9da95842a20b46dcbaedc20, type: 3}
-  score: 12
-  recordScore: 7
+  price: 0
+  image: {fileID: 890426472770691616, guid: db42da26f9da95842a20b46dcbaedc20, type: 3}

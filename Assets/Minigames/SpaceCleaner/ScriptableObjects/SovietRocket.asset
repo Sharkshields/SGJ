@@ -10,10 +10,10 @@ MonoBehaviour:
   m_Enabled: 0
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 90e3b437c66d94c438c84fd77b7e22cd, type: 3}
-  m_Name: RedRocket
+  m_Name: SovietRocket
   m_EditorClassIdentifier: 
-  name: red_rocket
-  onSold: 1
-  roket: {fileID: 3092842644095253548, guid: e9266731f69a1bf46bcf52c52606c9b2, type: 3}
-  price: 0
-  image: {fileID: -4081078327213034829, guid: 01dd5c7af85b6e142ac2edb2d1d7973b, type: 3}
+  name: SovietRocket
+  onSold: 0
+  roket: {fileID: 2349691085239626775, guid: 30c68306f8e699248a113549dda0cb03, type: 3}
+  price: 10
+  image: {fileID: -974430472209397013, guid: db42da26f9da95842a20b46dcbaedc20, type: 3}

@@ -10,10 +10,10 @@ MonoBehaviour:
   m_Enabled: 0
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 90e3b437c66d94c438c84fd77b7e22cd, type: 3}
-  m_Name: YellowRocket
+  m_Name: GreenRocket
   m_EditorClassIdentifier: 
-  name: yellow_rocket
-  onSold: 1
-  roket: {fileID: 2999893120459453728, guid: 463b5d7d28948ca4a920adff8ee52d39, type: 3}
-  price: 15
-  image: {fileID: 7649385742185852979, guid: 5760228db4e85f4419df5fd721093ab2, type: 3}
+  name: GreenRocket
+  onSold: 0
+  roket: {fileID: 8849389928840200113, guid: 463b5d7d28948ca4a920adff8ee52d39, type: 3}
+  price: 5
+  image: {fileID: 4882149116565567084, guid: db42da26f9da95842a20b46dcbaedc20, type: 3}
