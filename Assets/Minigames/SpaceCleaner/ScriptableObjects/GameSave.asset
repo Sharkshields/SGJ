@@ -12,7 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 13014d4798cf510418d9b62e1a03ccfd, type: 3}
   m_Name: GameSave
   m_EditorClassIdentifier: 
-  roket: {fileID: 3092842644095253548, guid: e3f7fbf89f2c4a9489619754a43fc769, type: 3}
-  sprite: {fileID: 890426472770691616, guid: db42da26f9da95842a20b46dcbaedc20, type: 3}
-  score: 7
-  recordScore: 3
+  _rocket: {fileID: 11400000, guid: 28df563c08bb67545b5f7659acd53ab1, type: 2}
+  score: 10
+  recordScore: 8

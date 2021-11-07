@@ -36,11 +36,11 @@ public class MainMenuManager : MonoBehaviour
         }
     }
    
-    private void UpdateRocket(Rocket rocket, Sprite sprite)
+    private void UpdateRocket(RocketInfoUI rocket)
     {
-        save.SetRoket(rocket,sprite);
+        save.SetRoket(rocket);
         save.SaveState();
-        updateRoketUI(sprite);
+        updateRoketUI(rocket.Image);
     }
 
     private bool Sale(int price)

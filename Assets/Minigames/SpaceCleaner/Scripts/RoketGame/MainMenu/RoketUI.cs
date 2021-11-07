@@ -13,7 +13,7 @@ public class RoketUI : MonoBehaviour, IPointerDownHandler
     [SerializeField] private Image image;
     //[SerializeField] private Button buttonUse;
     public event Func<int,bool> updateScore;
-    public event Action<Rocket, Sprite> updateRocket;
+    public event Action<RocketInfoUI> updateRocket;
 
     private void Awake()
     {
@@ -46,7 +46,7 @@ public class RoketUI : MonoBehaviour, IPointerDownHandler
         }
         else
         {
-            updateRocket(info.Roket, info.Image);
+            updateRocket(info);
         }
 
     }
