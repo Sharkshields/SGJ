@@ -35,10 +35,19 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/knb.unity
     guid: 2cda990e2423bbf4892e6590ba056729
-  - enabled: 0
+  - enabled: 1
     path: Assets/Scenes/Day_2_Banner.unity
     guid: a6904a4393530ae44a30b849ce4e5c2b
-  - enabled: 0
+  - enabled: 1
     path: Assets/Scenes/Day_3_Banner.unity
     guid: ba37e38eb481a874e82930ad453af722
+  - enabled: 1
+    path: Assets/Scenes/test.unity
+    guid: deaf62bbc088018449182d11dc8e87da
+  - enabled: 1
+    path: Assets/Scenes/Level_test.unity
+    guid: dd441a560ad5f074890da1d3d1a41a5b
+  - enabled: 1
+    path: Assets/OSSC/Example/Scenes/Example.unity
+    guid: 89a5aeb948394461898a7aa6ac9d56d7
   m_configObjects: {}
