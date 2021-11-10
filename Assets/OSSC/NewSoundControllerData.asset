@@ -19,7 +19,7 @@ MonoBehaviour:
       tagID: -1
       mixer: {fileID: 24300002, guid: 7a3c83bb68170174fae4a98fb0a0f21a, type: 2}
       clips:
-      - {fileID: 8300000, guid: c394dba7673d7c84caf8541b0079b9c2, type: 3}
+      - {fileID: 8300000, guid: fd4c7caf692f5934381756816eb7df77, type: 3}
       isRandomPitch: 0
       pitchRange:
         min: 1
@@ -33,7 +33,35 @@ MonoBehaviour:
       tagID: -1
       mixer: {fileID: 24300002, guid: b1b9ca76959998d4da1e6217714f55a4, type: 2}
       clips:
-      - {fileID: 8300000, guid: 6dcf02423ca311d46a72d04f6cd59f3c, type: 3}
+      - {fileID: 8300000, guid: 95f405dbebad8464498e31c97a253b72, type: 3}
+      isRandomPitch: 0
+      pitchRange:
+        min: 1
+        max: 1
+      isRandomVolume: 0
+      volumeRange:
+        min: 1
+        max: 1
+      volume: 1
+    - name: Track 02
+      tagID: -1
+      mixer: {fileID: 0}
+      clips:
+      - {fileID: 8300000, guid: 50a5e3a761293ec4bbf9ab0d074ba9a6, type: 3}
+      isRandomPitch: 0
+      pitchRange:
+        min: 1
+        max: 1
+      isRandomVolume: 0
+      volumeRange:
+        min: 1
+        max: 1
+      volume: 1
+    - name: 8bit
+      tagID: -1
+      mixer: {fileID: 0}
+      clips:
+      - {fileID: 8300000, guid: 5cf8bb477f1443346ba209cbaf16a8a8, type: 3}
       isRandomPitch: 0
       pitchRange:
         min: 1
