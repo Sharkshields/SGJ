@@ -1228,7 +1228,7 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 1246327347}
+      - m_Target: {fileID: 0}
         m_TargetAssemblyTypeName: MainMenuMusic, Assembly-CSharp
         m_MethodName: DestroyMusic
         m_Mode: 1
@@ -2586,84 +2586,6 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
---- !u!1 &1246327346
-GameObject:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  serializedVersion: 6
-  m_Component:
-  - component: {fileID: 1246327350}
-  - component: {fileID: 1246327349}
-  - component: {fileID: 1246327348}
-  - component: {fileID: 1246327347}
-  m_Layer: 0
-  m_Name: SoundController
-  m_TagString: Untagged
-  m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 1
---- !u!114 &1246327347
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1246327346}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 617fee44889883745a7cec76092aae6e, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  SoundController: {fileID: 1246327348}
-  audioMixer: {fileID: 24100000, guid: b1b9ca76959998d4da1e6217714f55a4, type: 2}
-  musicToStart: Main Menu
-  fadeInTime: 3
-  fadeOutTime: 0
-  isLooped: 1
---- !u!114 &1246327348
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1246327346}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 5f8b26984abd74719b7102aed2448f82, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  _defaultPrefab: {fileID: 1372326452742372, guid: d91a4843d0a82bb4c98640f14561ef59, type: 3}
-  _database: {fileID: 11400000, guid: c3fadc6a35d6b87498efff9386803a8d, type: 2}
---- !u!114 &1246327349
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1246327346}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 752da49827f134e25aa204a9cb0de6c6, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  pools: []
---- !u!4 &1246327350
-Transform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1246327346}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -14.076297, y: 0.0063442662, z: -5.372966}
-  m_LocalScale: {x: 1, y: 1, z: 1}
-  m_Children: []
-  m_Father: {fileID: 0}
-  m_RootOrder: 11
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1433680271
 GameObject:
   m_ObjectHideFlags: 0
